@@ -1,5 +1,4 @@
-git add .
-git commit -m "v2.2: CLEAN GIT-ONLY $(date +'%Y%m%d %H:%M')"
-git push origin main
-git tag -a v2.2 -m "ClawZinho Android CLEAN"
-git push origin v2.2
+# package.json no GitHub:
+npm init -y
+npm i supervisor nohup tmux-automation
+npm run clawzinho  # 1 comando limpo!
