@@ -6,7 +6,7 @@
 
 curl -sSL https://raw.githubusercontent.com/scoobiii/clawzinho/main/install.sh | bash run.sh
 
-📱 Chat Webhttp://127.0.0.1:11434
+📱 Chat Web http://127.0.0.1:11434
 
 Benchmarks🇧🇷 Feito em São Paulo, Brasil!
 
