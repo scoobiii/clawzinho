@@ -28,7 +28,8 @@ sleep 5
 ollama pull qwen2.5:0.5b
 
 # Chat interativo
-ollama run qwen2.5:0.5b🚀 UPLOAD WEB MANUAL:1. github.com/scoobiii/clawzinho
+ollama run qwen2.5:0.5b🚀 UPLOAD WEB MANUAL:
+1. github.com/scoobiii/clawzinho
 2. "Add file" → "Upload files"
 3. Arraste 3 arquivos acima
 4. Commit: "ClawZinho pronto"
