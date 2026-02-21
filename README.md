@@ -3,11 +3,11 @@
 **RECORD MUNDIAL: 7.8 tokens/s | 120MB RAM | A23**
 
 ## 🚀 Instalação 1-click
-```bash
+
 curl -sSL https://raw.githubusercontent.com/scoobiii/clawzinho/main/install.sh | bash
 bash run.sh📱 Chat Webhttp://127.0.0.1:11434📊 Benchmarks🇧🇷 Feito em São Paulo, Brasil!
 ## **2. install.sh**
-```bash
+
 #!/bin/bash
 echo "🦀 ClawZinho: Ollama + Qwen0.5B instalando..."
 
@@ -28,13 +28,18 @@ sleep 5
 ollama pull qwen2.5:0.5b
 
 # Chat interativo
-ollama run qwen2.5:0.5b🚀 UPLOAD WEB MANUAL:
+ollama run qwen2.5:0.5b
+
+🚀 UPLOAD WEB MANUAL:
 1. github.com/scoobiii/clawzinho
 2. "Add file" → "Upload files"
 3. Arraste 3 arquivos acima
 4. Commit: "ClawZinho pronto"
-5. GREEN BUTTON!🎉 TESTE:curl -sSL https://raw.githubusercontent.com/scoobiii/clawzinho/main/install.sh | bash
-bash run.sh
+5. GREEN BUTTON!🎉
+
+TESTE: curl -sSL https://raw.githubusercontent.com/scoobiii/clawzinho/main/install.sh | bash run.sh
 3 ARQUIVOS = 5KB
 ! Funciona 100%
-!Copia → Cola → Upload → WORLD DOMINATION! 🦀🚀🇧🇷
+!Copia → Cola → Upload →
+
+WORLD DOMINATION! 🦀🚀🇧🇷
