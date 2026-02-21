@@ -34,6 +34,7 @@ ollama run qwen2.5:0.5b🚀 UPLOAD WEB MANUAL:
 3. Arraste 3 arquivos acima
 4. Commit: "ClawZinho pronto"
 5. GREEN BUTTON!🎉 TESTE:curl -sSL https://raw.githubusercontent.com/scoobiii/clawzinho/main/install.sh | bash
-bash run.sh3 ARQUIVOS = 5KB
+bash run.sh
+3 ARQUIVOS = 5KB
 ! Funciona 100%
 !Copia → Cola → Upload → WORLD DOMINATION! 🦀🚀🇧🇷
